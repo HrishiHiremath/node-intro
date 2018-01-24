@@ -58,10 +58,10 @@ You can run modules as below
 
 Following are some of the key concepts that we would come across all the time
 > 
-npm init  
-package.json  
-package-lock.json  
-node_modules folder
+>npm init  
+>package.json  
+>package-lock.json  
+>node_modules folder
 
 
 ## How do you use it?
